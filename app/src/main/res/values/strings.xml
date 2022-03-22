@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+
+
+
+
+
+
+
+    <string name="in_color0">White</string>
+    <string name="in_color1">Cape Palliser</string>
+    <string name="in_color2">Driftwood</string>
+    <string name="in_color3">Sycamore</string>
+    <string name="in_color4">Apple</string>
+    <string name="in_color5">Paradiso</string>
+    <string name="in_color6">Cyan</string>
+    <string name="in_color7">Calypso</string>
+    <string name="in_color8">Chambray</string>
+    <string name="in_color9">Gigas</string>
+    <string name="in_color10">purple</string>
+    <string name="in_color11">light purple</string>
+    <string name="in_color12">Vivid violet</string>
+    <string name="in_color13">Plum</string>
+    <string name="in_color14">Camelot</string>
+    <string name="in_color15">Stiletto</string>
+</resources>
